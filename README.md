@@ -205,4 +205,4 @@ This repository serves as the official landing page for Across The Obelisk. The 
 **Get the most recent version of Across The Obelisk today!**
 
 ---
-**Last updated:** 2026-11-07 22:30:23 UTC
+**Last updated:** 2026-11-08 02:05:17 UTC
